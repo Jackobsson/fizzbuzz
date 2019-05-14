@@ -19,4 +19,5 @@ if__name__ ==__"__main__"
     while True:
         fizzbuzz()
         shall_continue = input('Print again?')
-        if shall_continue
+        if shall_continue.lower() != "y"
+            break
