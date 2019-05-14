@@ -9,3 +9,13 @@ def fizzbuzz():
 
         else:
         print(i)
+
+
+
+
+
+
+if__name__ ==__"__main__"
+    while True:
+        fizuzz()
+        shall_
