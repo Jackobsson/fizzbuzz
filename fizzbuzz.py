@@ -26,8 +26,8 @@ def fizzbuzz():
 
 
 
-
 if__name__ ==__"__main__"
+name = input("Give me your name: ")
     while True:
         fizzbuzz()
         shall_continue = input('Print again?')
